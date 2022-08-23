@@ -1,0 +1,6 @@
+dir 1 is created
+dir 2 is created
+
+app.js file is created
+style css is created
+
